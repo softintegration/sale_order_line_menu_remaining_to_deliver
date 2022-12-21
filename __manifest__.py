@@ -2,7 +2,7 @@
 
 {
     'name': 'Sale order line menu with remaining to deliver field',
-    'version': '1.0.1',
+    'version': '1.0.1.1',
     'author':'Soft-integration',
     'category': 'Sale',
     'description': "",
